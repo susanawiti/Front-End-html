@@ -1,0 +1,36 @@
+body{
+   padding-top:90px;
+}
+thead{
+	width: 1000px;
+	margin: 0 auto;
+	background-color:#fff;
+    height: 800px;
+    margin-top: 10px;
+
+
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin:0 auto;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    border:1px solid black;
+    
+}
+tr:nth-child(odd) {
+	background-color: #f9f9f9;
+}
+th{
+	background-color: #fff;
+	color:#71a2cd;
+}
+.country{
+	color:#387cbb;
+        font-weight:bold;
+}

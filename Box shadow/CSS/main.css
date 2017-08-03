@@ -1,0 +1,125 @@
+body{
+	background-image:url(../img/wood3.jpg);
+	padding-top: 200px;
+	background-color: #f1c098;
+
+
+}
+.cont{
+	height: 225px;
+	width: 365px;
+	margin-top: 100px;
+	border-radius: 13px;
+	margin-left: 150px;
+	background-color:#f2d2bb;
+	margin:0 auto;
+	overflow: auto;
+
+	
+}
+.opacity{
+	width: 340px;
+	height: 200px;
+	background-color: #fffaf6;
+	margin: 0 auto;
+	display: inline-block;
+	margin-left: 12px;
+	margin-top: 12px;
+	border-radius: 3px;
+}
+.icon img{
+	width: 10px;
+	height: 10px;
+	float:left;
+	margin-left: 12px;
+	color: #88837f;
+}
+.icon p{
+	margin-left: 20px;
+	margin: 0 auto;
+	float:left;
+	margin-right: 35px;
+    color: #88837f;
+	font-size: 12px;
+}
+ul li {
+	list-style: none;
+	display: inline;
+	font-weight: bold;
+
+
+}
+hr{
+	width: 317px;
+}
+.icon2 img{
+	width: 10px;
+	height: 10px;
+	margin-left:50px; 
+}
+.icon2 p{
+	margin-right: 
+	margin: 0 auto;
+	float:right;
+	margin-right:75px;
+	margin-top: 4px;
+	font-size: 12px;
+	color: #88837f;
+}
+.user input{
+	height: 30px;
+	width: 150px;
+	margin-left: 12px;
+	border-radius: 5px;
+	border: 3px solid #ede6e0;
+	margin-top: 11px;
+	color: #a5aba9;
+	font-weight: bold;
+
+
+}
+.name input{
+	height:30px;
+	width: 150px;
+	float: right;  
+	margin-top: -38px;
+	margin-right: 12px;
+	border: 3px solid #ede6e0;
+	border-radius: 5px;
+	color: #a5aba9;
+	font-weight: bold;
+
+}
+.check input{
+	margin-left: 197px;
+	margin-top: 7px;
+	color:#8d8884;
+	font-family: sans-serif;
+
+}
+
+.twitter input{
+	height: 35px;
+	width: 154px;
+	margin-left: 12px;
+	background-color: #299dce;
+	color: #e5f8f4;
+	border-radius: 3px;
+	border:3px #228bc5;
+	font-weight: bold;
+	font-family: sans-serif;
+	text-shadow: 1px 1px #1a688c;
+}
+.log input{
+	height: 35px;
+	width: 154px;
+	margin-right: 12px;
+	float: right;
+	margin-top: -34px;
+	background-color: #fdcc55;
+	color: #a06140;
+	border-radius: 3px;
+	border:2px #a06140;
+	font-weight: bold;
+
+}

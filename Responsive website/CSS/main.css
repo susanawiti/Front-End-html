@@ -1,0 +1,131 @@
+
+body{
+	background-color:#bb01c6;
+}
+
+
+.main{
+	max-width: 1000px;
+
+	background-color: #d0019a;
+	margin: 0 auto;
+	overflow: auto;
+    border: 10px solid #0ef207;
+   
+
+}
+.panel{
+	width: 50%;
+	height: 50%;
+	float: left;
+	border-radius: 25%;
+/*	background-image: url(../img/sun1.jpg);*/
+}
+.two{
+
+	width: 50%;
+	
+	height: 50%;
+	border-radius: 25%;
+	float: left;
+	/*background-image: url(../img/sun2.jpg);*/
+
+}
+.three{
+	
+	width: 50%;
+
+	height: 50%;
+	float: left;
+	border-radius: 25%;
+	/*background-image: url(../img/sun3.jpg);*/
+	
+
+}
+
+.four{
+	
+	width: 50%;
+	height: 50%;
+	float: left;
+	border-radius: 25%;
+	/*background-image: url(../img/sun4.jpg);*/
+	
+	
+}
+
+.five{
+	
+	width: 50%;
+
+	height: 50%;
+	float: left;
+	border-radius: 25%;
+	/*background-image: url(../img/sun5.jpg)*/;
+	
+	
+
+}
+
+.six{
+	
+	width: 50%;
+	height: 50%;
+	float: left;
+	border-radius: 25%;
+	/*background-image: url(../img/sun6.jpg);*/
+
+	
+		
+}
+
+.six img{
+	border-radius: 250px;
+
+}
+		
+.five img{
+	border-radius: 250px;
+} 
+.four img{
+	border-radius: 250px;
+
+} 
+.three img{
+	border-radius: 250px;
+} 
+.two img{
+	border-radius: 250px;
+
+}
+.panel img{
+	border-radius: 250px;
+
+}
+
+
+
+
+@media only screen and (max-width: 500px){
+	body{
+		background-color: #070ce2;
+
+
+	}
+}
+
+@media only screen and (max-width: 500px){
+	.main{
+		background-color: #f4ba00;
+ 
+		
+		
+
+	}
+}
+
+@media only screen and (max-width: 500px){
+	div.panel, .two, .three, .four, .five, .six{
+		width: 100%;
+	}
+}
